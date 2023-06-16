@@ -12,6 +12,4 @@ média_em_conceito varchar(20) not null,
 média_em_nota float(10,2) not null
 );
 
-copy calcula to 
-'C:\xampp\htdocs\Resultados_calcula.csv'
-delimiter ';'
+
